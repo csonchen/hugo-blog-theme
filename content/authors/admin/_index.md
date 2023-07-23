@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: 陈易灿（牛仔）
 
 # Is this the primary user of the site?
 superuser: true
