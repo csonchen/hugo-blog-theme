@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 我的兴趣爱好是吃东西，只要你有好吃的东西，都希望可以尝一尝。晚上不喜欢睡觉，喜欢闹觉，把妈妈折腾的都睡不好觉，至今还没睡过一次整觉。
 
 #interests:
 #- Artificial Intelligence
@@ -66,5 +66,5 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #email: ""
 ---
 
-我是陈易灿，大家也可以叫我牛仔。
+我是陈易灿，大家也可以叫我牛仔。我的爸爸来自广东湛江，我的妈妈来自广东汕头，是一个纯血的广东靓仔。
 
